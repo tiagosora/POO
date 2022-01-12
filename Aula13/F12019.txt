@@ -1,0 +1,11 @@
+Pos	Driver 	 Nationality 	Car 	PTS
+1	Lewis Hamilton  	GBR	Mercedes	413
+2	Valtteri Bottas 	FIN 	Mercedes	326
+3	Max Verstappen  	NED 	Red Bull Racing Honda	278
+4	Charles Leclerc	MON 	Ferrari	264
+5	Sebastian Vettel	GER 	Ferrari	240
+6	Carlos Sainz	ESP 	McLaren Renault	96
+7	Pierre Gasly	FRA 	Scuderia Toro Rosso Honda	95
+8	Alexander Albon	THA 	Red Bull Racing Honda	92
+9	Daniel Ricciardo	AUS 	Renault	54
+10	Sergio Perez	MEX 	Racing Point BWT Mercedes	52

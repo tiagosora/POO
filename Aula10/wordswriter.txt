@@ -1,0 +1,13 @@
+folha
+anel
+tampa
+papel
+rato
+computador
+borracha
+caneca
+telefone
+mala
+monitor
+capa
+janela
